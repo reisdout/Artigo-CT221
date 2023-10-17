@@ -1,1 +1,3 @@
-# Artigo-CT221
+# de Artigo-CT221
+#para
+#8Queens 
